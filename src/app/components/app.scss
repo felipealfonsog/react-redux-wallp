@@ -1,0 +1,94 @@
+body {
+  font-size: 16px;
+}
+
+form.authentication {
+  margin-top: 17%;
+}
+
+button, 
+div.card,
+input.form-control, 
+select.form-control,
+textarea.form-control {
+  border-radius: 0px !important;
+}
+
+label.form-title {
+  margin: 7px 10px;
+}
+
+div.form {
+  background-color: whitesmoke;
+}
+
+.welcome {
+  color: beige !important; 
+  font-weight: 700;
+  margin-right: 10px;
+}
+
+.inline-error {
+  color: darkred;
+  font-weight: 600;
+}
+
+.profile {
+  margin-top: 5%;
+}
+
+.danger {
+  color: red;
+}
+
+.danger:hover {
+  color: darkred;
+}
+
+.selection-bar,
+.post {
+  margin-top: 10px;
+}
+
+.post {
+  padding: 5px;
+  padding-bottom: 12px;
+
+  .published {
+    margin: 5px 20px;
+  }
+  p.author {
+    font-size: 12px;
+    color: gray;
+    margin: 0 10px;
+  }
+
+  .actions {
+    margin: 0 10px;
+  }
+}
+
+.edit {
+  border: none;
+  resize: none;
+  pointer-events: none;
+  margin: 5px;
+}
+
+.post-error {
+  margin: 5px 10px;
+  color: red;
+  font-weight: 300;
+  font-size: 12px;
+}
+
+.disabled {
+  color: currentColor;
+  cursor: not-allowed;
+  opacity: 0.5;
+  text-decoration: none;
+}
+
+.timeline {
+  margin-bottom: 30px;
+}
