@@ -1,4 +1,6 @@
-# login - wall - JS REACT REDUX NODEJS FIREBASE 
+# login - wall
+JS NodeJS React Redux
+
 
 ## URL Firebase:
 https://log-wall.firebaseapp.com/
@@ -7,5 +9,4 @@ https://log-wall.firebaseapp.com/
 
 ## CONTACT
 
-FELIPE GONZALEZ
-SOFTWARE ENGINEER - f.alfonso.go@gmail.com 
+Felipe Gonzalez - Software Engineer - f.alfonso.go@gmail.com 
