@@ -18,6 +18,7 @@ class UserRegister extends Component {
     }
   }
 
+  
   onFormSubmit(event) {
     event.preventDefault();
     const email = this.email.value;

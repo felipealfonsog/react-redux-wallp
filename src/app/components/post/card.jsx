@@ -149,6 +149,7 @@ class Card extends Component {
   }
 }
 
+
 Card.propTypes = {
   currentUser: PropTypes.shape({ uid: PropTypes.string, email: PropTypes.string }).isRequired,
   fetchPosts: PropTypes.func.isRequired,

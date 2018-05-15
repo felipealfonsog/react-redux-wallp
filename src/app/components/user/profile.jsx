@@ -18,6 +18,7 @@ class UserProfile extends Component {
     }
   }
 
+  
   render() {
     return (
       <div className="col-md-8 offset-md-2">

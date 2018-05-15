@@ -1,9 +1,9 @@
 {
-  "name": "react-redux-firebase-boilerplate",
+  "name": "react-redux-firebase",
   "version": "1.0.0",
   "description": "Simple boilerplate for Reactjs with Redux and Firebase",
   "main": "index.jsx",
-  "repository": "git@github.com:btomashvili/react-redux-firebase-boilerplate.git",
+  "repository": "",
   "scripts": {
     "dev": "./node_modules/.bin/webpack-dev-server --config ./webpack/webpack-dev.config.js --watch --colors",
     "build": "rm -rf dist && ./node_modules/.bin/webpack --config ./webpack/webpack-prod.config.js --colors",
@@ -15,9 +15,9 @@
   "author": "Beka Tomashvili",
   "contributors": [
     {
-      "name": "Alexander Wong",
-      "email": "admin@alexander-wong.com",
-      "url": "https://www.alexander-wong.com/"
+      "name": "",
+      "email": "",
+      "url": ""
     }
   ],
   "license": "MIT",

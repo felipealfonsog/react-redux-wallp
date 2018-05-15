@@ -15,6 +15,7 @@ class UserLogin extends Component {
     };
   }
 
+  
   componentDidUpdate() {
     if (this.props.authenticated) {
       browserHistory.push('/timeline');

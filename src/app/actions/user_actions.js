@@ -15,6 +15,7 @@ import {
   UPDATE_FILTER_BY,
 } from './types';
 
+
 const firebaseApp = firebase.initializeApp(FIREBASE_CONFIG);
 const firebaseAuth = firebaseApp.auth();
 const firebaseDb = firebaseApp.database();

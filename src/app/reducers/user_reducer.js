@@ -18,6 +18,7 @@ const initialState = {
   filterBy: 'friends',
 };
 
+
 export default function userStore(state = initialState, action) {
   switch (action.type) {
   case AUTH_USER:

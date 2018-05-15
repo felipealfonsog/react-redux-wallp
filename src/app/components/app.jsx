@@ -68,6 +68,7 @@ class App extends Component {
   }
 }
 
+
 App.propTypes = {
   location: PropTypes.shape({ pathname: PropTypes.string }).isRequired,
   currentUser: PropTypes.shape({ email: PropTypes.string }).isRequired,

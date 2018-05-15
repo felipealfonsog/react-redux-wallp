@@ -21,6 +21,7 @@ module.exports = (options) => {
     resolve: {
       extensions: ['', '.js', '.jsx'],
     },
+    
     module: {
       loaders: [
         {test: /.jsx?$/, include: Path.join(__dirname, '../src/app'), loader: 'babel',},

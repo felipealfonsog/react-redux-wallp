@@ -4,3 +4,4 @@ module.exports = require('./webpack.config.js')({
   jsFileName: 'app.[hash].js',
   cssFileName: 'app.[hash].css',
 });
+
